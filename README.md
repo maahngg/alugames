@@ -1,4 +1,4 @@
-##AluGames
+## AluGames
 
 *Repositório para estudo de lógica de programação em JavaScript*
 
